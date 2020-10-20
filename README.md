@@ -2,9 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
+## Creating a new Angular Project
+
+Run `$ng new app-name` to create a new angular project.
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `$ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+If you want to change the port number, run  `ng serve --port 4201`, navigate to `http://localhost:4201/`.
 
 ## Code scaffolding
 
